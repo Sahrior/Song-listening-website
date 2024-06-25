@@ -1,0 +1,62 @@
+body{
+    background-image: url(englishbg.jpg);
+    background-size: 1200px;
+}
+
+.a{
+    background-color: aquamarine;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 15px ;
+    text-indent: 100px;
+    
+    margin-right: 900px;
+}
+.b{
+    background-color: brown;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 15px ;
+    text-indent: 100px;
+    margin-right: 900px;
+}
+.c{
+    background-color: chartreuse;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 15px ;
+    text-indent: 100px;
+    margin-right: 900px;
+}
+.d{
+    background-color: blue;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 15px ;
+    text-indent: 100px;
+    margin-right: 900px;
+}
+.e{
+    background-color: coral;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 15px ;
+    text-indent: 100px;
+    margin-right: 900px;
+}
+.f{
+    background-color: cyan;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 15px ;
+    text-indent: 100px;
+    margin-right: 900px;
+}
+.g{
+    background-color: darkred;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 15px ;
+    text-indent: 100px;
+    margin-right: 900px;
+}

@@ -1,0 +1,53 @@
+body{
+    background-color: aquamarine;
+    background-image: url(real.jpg);
+    background-size: 1100px;
+}
+
+
+
+.two{
+    background-color: cornflowerblue;
+    border: 5px solid red;
+    border-radius: 15px;
+    text-indent: 500px;
+}
+
+.three{
+    background-size: 555px;
+    background-color: fuchsia;
+    border: 5px solid darkblue;
+    border-radius: 15px;
+    margin-left: 300px;
+    margin-right: 700px;
+    text-indent: 80px;
+}
+
+.four{
+    background-color: chartreuse;
+    border: 5px solid yellow;
+    border-radius: 15px;
+    margin-left: 300px;
+    margin-right: 700px;
+    text-indent: 75px;
+}
+
+.five{
+    background-color: blueviolet;
+    border: 5px solid red;
+    border-radius: 15px;
+    margin-left: 300px;
+    margin-right: 700px;
+    text-indent: 75px;
+}
+
+.six{
+    background-color: fuchsia;
+}
+
+.seven{
+    background-color: chartreuse;
+}
+.eight{
+    background-color: blueviolet;
+}
